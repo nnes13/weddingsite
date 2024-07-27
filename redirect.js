@@ -1,0 +1,1 @@
+window.location.replace("https://nickanddaniella.com/pages/shower");
