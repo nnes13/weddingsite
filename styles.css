@@ -43,7 +43,7 @@ table {
 }
 
 body {
-    background:url("/img/10224313.png");
+    background:url("/img/sitebg.jpg");
     background-position: center;
     background-size: cover;
     margin: 1% 30% 0 30%;
@@ -103,7 +103,7 @@ main {
 
 a {
     text-decoration: none;
-    color: pink;
+    color: goldenrod;
 }
 
 .infoText {
