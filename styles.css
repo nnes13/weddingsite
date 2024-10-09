@@ -89,6 +89,10 @@ nav {
     width: 100%;
 }
 
+.noStyle {
+    text-decoration: none;
+}
+
 /* Body Styles */
 
 .coupleImg {
