@@ -167,6 +167,52 @@ a {
     }
 }
 
+/* Bridal Party Members */
+
+
+.members {
+    display: flex;
+    gap: 2%;
+    column-gap: 2%;
+    row-gap: 3%;
+    justify-content: center;
+    flex-wrap: wrap;
+    
+}
+
+.memberTitle {
+    text-align: center;
+    margin: 10px 0px;
+    font-size: 30px;
+}
+
+.profile {
+    width: 150px;
+    height: 150px;
+    background-color: gray;
+}
+
+.memberContainer {
+    width: 150px;
+    display: flex;
+    flex-direction: column;
+    border-radius: 5%;
+    border: 1px solid black;
+    margin-bottom: 20px;
+
+}
+
+.memberName {
+    text-align: center;
+    margin: 10px 0px;
+}
+
+.miniTitle {
+    text-align: center;
+    margin: 10px;
+    font-size: 26px;
+}
+
 
 
 /* Mobile Site Sizing */
@@ -192,4 +238,8 @@ a {
         width: 80%;
         border-radius: 20px;
     }
+}
+
+body {
+    border: 1px solid red;
 }
