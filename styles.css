@@ -188,9 +188,16 @@ a {
 
 .profile {
     width: 150px;
-    height: 150px;
-    background-color: gray;
+    height: 200px;
     border-top-left-radius : 5%;
+    border-top-right-radius: 5%;
+    background-color: lightgray;
+}
+
+.profile img {
+    width: 150px;
+    height: 200px;
+    border-top-left-radius: 5%;
     border-top-right-radius: 5%;
 }
 
@@ -207,6 +214,7 @@ a {
 .memberName {
     text-align: center;
     margin: 10px 0px;
+    font-size: 20px;
 }
 
 .miniTitle {
