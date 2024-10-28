@@ -190,6 +190,8 @@ a {
     width: 150px;
     height: 150px;
     background-color: gray;
+    border-top-left-radius : 5%;
+    border-top-right-radius: 5%;
 }
 
 .memberContainer {
