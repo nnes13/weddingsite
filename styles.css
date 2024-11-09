@@ -124,6 +124,10 @@ a {
     font-size: 20px;
 }
 
+.border {
+    border-bottom: solid black 2px;
+}
+
 
 /* Gallery Styles */
 
