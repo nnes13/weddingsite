@@ -248,4 +248,8 @@ a {
         width: 80%;
         border-radius: 20px;
     }
+
+    .menuContainer {
+        padding: 0 5px;
+    }
 }
